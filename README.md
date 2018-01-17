@@ -1,3 +1,3 @@
-Collection of Chef cookbooks to set up a Slurm cluster.
+Collection of Chef cookbooks to set up a Slurm cluster with a MySQL database.
 
-*The documentation is not ready yet!*
+_TODO: Divide each cookbook into a separate repository._
